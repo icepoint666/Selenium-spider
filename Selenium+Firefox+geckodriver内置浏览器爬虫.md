@@ -69,7 +69,7 @@ windows: 将Firefox路径添加到环境变量中（C:\Program Files (x86)\Mozil
 
 Linux: 直接把可执行文件的路径放入环境变量$PATH路径下，或者把可执行文件放入/usr/bin目录下也可以
 
-#### 完整代码见[](demo/selenium_demo.py)
+#### 样例代码见[demo](demo/selenium_demo.py)
 
 https://zhuanlan.zhihu.com/p/38900589
 
